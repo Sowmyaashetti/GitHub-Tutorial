@@ -1,2 +1,3 @@
 # GitHub-Tutorial
-GitHub tutorial from college dunia
+GitHub tutorial from College Dunia
+Author - Sowmya Shetti
